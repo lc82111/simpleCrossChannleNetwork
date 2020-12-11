@@ -6,3 +6,4 @@ If I'm right, it seems cross-channle module is another version of Squeeze-and-Ex
 
 I hope I'm wrong about this.
 
+The office implementation can be find at https://github.com/jwyang/C3Net.pytorch
